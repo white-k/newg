@@ -18,7 +18,7 @@ title: blog
     环境搭建好以后就是建站了，可以从github git clone别人的库；也可以自己在本地搭建<br/>
     <code>jekyll new PATH --blank</code>在指定的路径下创建一个新的空白网站；目录下面的文件如下：
     <br/>
-    <img src="createsite.png"/>33
+    <img src="createsite.png"/><br/>
     现在还没有建站点 需要<code>cd your have site</code>执行<code>jekyll build</code><br>
     目录下面就多了一个<code>_site</code>文件，这个目录就是你类似于web站点下面的文件
 
